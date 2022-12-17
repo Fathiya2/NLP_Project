@@ -1,7 +1,9 @@
-# NLP Project Codes
+# NLP Project Codes - hf2313, mt4705
+
 These are the codes used for our NLP project: Detection of ARG1 of Partitive Group Predicates using Neural Network
 
 ### Description of files:
+
 <ul>
 <li>NomBank Partitive Datasets.zip: Contains NomBank partitive dataset (Train, Development and Test)  </li>
 <li>CSV Datasets: Contains the CSV files after parsing NomBank partitive files </li>
