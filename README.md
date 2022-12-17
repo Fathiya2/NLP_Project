@@ -1,4 +1,4 @@
-# NLP Project Codes - hf2313, mt4705
+# NLP Project Codes
 
 These are the codes used for our NLP project: Detection of ARG1 of Partitive Group Predicates using Neural Network
 
